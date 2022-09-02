@@ -1,4 +1,4 @@
-## Arisan With NodeJS and ExoressJS
+## Arisan With NodeJS and ExpressJS
 
 ### Install
 ```
